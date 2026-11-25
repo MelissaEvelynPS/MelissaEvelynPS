@@ -1,4 +1,4 @@
-# Bem vindo! Meu nome é Melissa! 👋
+# Bem vindos! Meu nome é Melissa! 👋
 
 ## 🚀 Sobre Mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e tenho grande paixão por aprendizado. 
@@ -19,6 +19,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** na UNINASSAU e tenho
 * **[PiggyBank](https://github.com/carolinesdiniz/piggybank-cofrinho)**: Um aplicativo de educação financeira para crianças, propondo aos pais uma ferramenta para adicionar atividades em troca de pontos a serem trocados por recompensas.
 * **[TechRoots](https://github.com/carolinesdiniz/techflow-flow-maker)**: Aplicativo de microlearning sobre a história da tecnologia feito para o projeto de extensão, apresentado no EEEP Joaquim Antonio Albano.
 * **[DiVerde](https://github.com/carolinesdiniz/techflow-flow-maker)**: PWA desenvolvido para o desafio Sustentabilidade no Hackaton Uninassau 2026 e premiado em 2º lugar na competição. O MVP mostra um mapa com locais integrados e uma infowindow para avaliação de diferentes pontos de coleta.
+* **[LAUF](https://github.com/Jeancaetano12/lauf-site-oficial)**: Site da extracurricular Liga de Arduino Uninassau Fortaleza.
+
 
 ---
 
